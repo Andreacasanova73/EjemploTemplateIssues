@@ -1,2 +1,2 @@
-# horarios-ceet
-proyectos de horarios para el sena
+# EjemploTemplateIssues
+Este ejemplo sirve para ver como se crean plantillas para las issues en github para crear los requerimientos
