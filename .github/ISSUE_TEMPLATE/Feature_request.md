@@ -4,14 +4,19 @@ about: Suggest an idea for this project
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Código Caso Uso: 
+### Criterios de aceptación
+#### ESCENARIOS:
+Logueo
+#### Debe tener:
+1.	el sistema de le debe pedir el correo y la contraseña
+### Esto que es?
+<pre><code>
+[x] User Story (requerimiento funcional que tiene estimación de menor a 8)
+[ ] Feature (funcionalidad que se desarrolla en semanas y tiene una estimación = 8)
+[ ] Epic (Funcionalidad de meses y se estima superior a 8)
+[ ] Bug (error)  
+[ ] Inception (actividad inicial)
+[ ] Documentation (Documentación)
+[ ] Other... Please describe:
+</code></pre>
